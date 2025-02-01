@@ -7,7 +7,6 @@ export type AvaliationProps = {
 
 export default function Avaliation(props: AvaliationProps) {
   const { score, recommendation, words, error } = props;
-  console.log("props", error);
 
   if (error) {
     return (
