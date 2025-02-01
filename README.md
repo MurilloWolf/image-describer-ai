@@ -2,6 +2,10 @@
 
 <img src="./src/assets//bg-screenshot.png" />
 
+## Deployed project
+
+[Image describer AI](https://image-describer-ai.vercel.app/)
+
 ## Description
 
 This project was created for people who want to learn and practice English.  
